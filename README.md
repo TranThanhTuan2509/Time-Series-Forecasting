@@ -12,7 +12,7 @@
 ![image](https://github.com/TranThanhTuan2509/Time-Series-Forecasting/assets/119112296/b408f5cb-f022-429b-a731-a23361c0aa7f)
 
 # Preprocessing
-- This dataset currently comprises only 2 columns, so you need to add more columns. The number of columns to be added depends on your specific requirements
+- This dataset currently comprises only 2 columns, so you need to add more columns behind CO2 columns to be suitable with the 2 methods above. The number of columns to be added depends on your specific requirements.
 - All Time-information columns have to change the datatype to "Datetime".
 - Here is the data virtualization before handling missing data:
 ![image](https://github.com/TranThanhTuan2509/Time-Series-Forecasting/assets/119112296/49c2e2c7-bdda-4142-9ec0-17b22068e41a)
