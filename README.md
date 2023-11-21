@@ -3,7 +3,7 @@
 - This project was created to forecast the amount of CO2.
 - This data was measured from 1958 to 2001.
 - Data here: https://github.com/TranThanhTuan2509/Time-Series-Forecasting/blob/main/co2.csv
-- Time series forecasting could be used for Stock problems, Financial Forecasting, Energy Consumption Forecasting, Weather Forecasting, etc..
+- Time series forecasting could be used for Stock Forecasting, Financial Forecasting, Energy Consumption Forecasting, Weather Forecasting, etc..
 
 # The strategy to predict
 - Recursive method
