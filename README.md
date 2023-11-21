@@ -20,13 +20,6 @@
 ![image](https://github.com/TranThanhTuan2509/Time-Series-Forecasting/assets/119112296/fc76d7b4-1b93-4352-b88a-d25b594cebec)
 - Time series forecasting has not to use the train-test-split method when you train because the time series forecasting properties ( continuous ) while train-test-split random the data.
 
-# The strategy to predict
-- Recursive method
-![image](https://github.com/TranThanhTuan2509/Time-Series-Forecasting/assets/119112296/6d0bfb67-a18b-4665-a7aa-d8fd5ea8cdcb)
-- Direct method
-![image](https://github.com/TranThanhTuan2509/Time-Series-Forecasting/assets/119112296/b408f5cb-f022-429b-a731-a23361c0aa7f)
-
-
 # Requirement
 - Pandas
 - sk-learn
